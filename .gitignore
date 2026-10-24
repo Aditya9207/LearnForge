@@ -1,0 +1,16 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment and sensitive keys
+.env
+.env.local
+*.log
+
+# Python / Node artifacts
+__pycache__/
+node_modules/
+dist/
+.venv/
+venv/

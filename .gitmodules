@@ -1,0 +1,6 @@
+[submodule "LearnForgeFrontend"]
+	path = LearnForgeFrontend
+	url = https://github.com/Aditya9207/LearnForge_frontend.git
+[submodule "LearnForgeBackend"]
+	path = LearnForgeBackend
+	url = https://github.com/Aditya9207/LearnForge_backend-.git
